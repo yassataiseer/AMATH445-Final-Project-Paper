@@ -1,0 +1,7 @@
+Model,Min Accuracy,Mean Accuracy,Max Accuracy (The 'Lucky Run'),Variance Spread
+Logistic Regression,85.64,88.82,89.96,4.32
+KNN,89.24,91.04,92.78,3.54
+Decision Tree,67.42,73.49,75.38,7.96
+Random Forest,86.56,91.14,93.28,6.72
+Linear SVM,84.28,86.82,89.58,5.3
+Naive Bayes,57.92,59.97,62.92,5.0
